@@ -19,5 +19,6 @@ potential travel destinations and nearby hotels were identified.
 
 ###  5. Route
 Finally, Using the Google Maps Directions API, a travel route between the four cities was created, as well as a marker layer map.
+
 ![](img_api/api5.png)
 
