@@ -1,6 +1,6 @@
 #World_Weather_Analysis
 ## Overview:
-Using multiple API sources, create an app that allows users to filter through random locations based on their temperature range choices
+Using multiple API sources, create an app that allows users to filter through random locations based on their temperature range choices.
 ###  1.	Latitudes and Longitudes.
 Generated a set of 2,000 random latitudes and longitudes, then adding the weather description to the weather data
 ![](img_api/api1.png)
